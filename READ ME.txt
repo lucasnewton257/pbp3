@@ -1,0 +1,19 @@
+Table of Contents
+-----------------
+    Introduction
+    Features
+-----------------
+
+Introduction
+
+	This project is a game project that is still in development and it is not complete. We are a group of three and we are still working on this project and we plan
+on completing this project before the end of the school year. We have had many problems that we faced and have managed to solve most of the problems.
+
+Features
+
+	This project features funtcions that make the character move, a save system that works but it has bugs that need to be addressed, an inventory system that is still a work in
+progress, a health system, an attack system, an enemy attack system and collision functions.
+
+
+
+
